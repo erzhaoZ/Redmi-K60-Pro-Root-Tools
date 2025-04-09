@@ -1,4 +1,4 @@
-# Redmi-K60-Pro-Root
+# Redmi-K60-Pro-Root-Tools
 Redmi K60 Pro 一键Root工具箱
 
 机型代码：Socrates
