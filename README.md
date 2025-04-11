@@ -1,17 +1,21 @@
 # Redmi-K60-Pro-Root-Tools
+
 Redmi K60 Pro 一键Root工具箱
 
-#使用本工具箱前请确保BL已解锁❗
 
-#使用本工具箱前请确保BL已解锁❗
+使用本工具箱前请确保BL已解锁❗
 
-#使用本工具箱前请确保BL已解锁❗
+使用本工具箱前请确保BL已解锁❗
+
+使用本工具箱前请确保BL已解锁❗
+
 
 机型代码：Socrates
 
 适用版本：HyperOS 2
 
 Magisk版本：28.1（28100_Stable）
+
 
 
 食用方法：
