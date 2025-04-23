@@ -12,9 +12,9 @@ Redmi K60 Pro 一键Root工具箱
 
 机型代码：Socrates
 
-适用版本：HyperOS 2
+适用版本：HyperOS 2.0
 
-Magisk版本：28.1（28100_Stable）
+Magisk版本：28.1
 
 
 
