@@ -14,7 +14,7 @@ Redmi K60 Pro 一键Root工具箱
 
 适用版本：HyperOS 2.0
 
-Magisk版本：28.1
+Magisk版本：30.0
 
 
 
